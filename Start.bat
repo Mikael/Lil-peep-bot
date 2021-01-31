@@ -1,5 +1,5 @@
 echo off
 cls
-title Mikaelvoice Bot
+title Lil Peep Bot
 node .
 pause
