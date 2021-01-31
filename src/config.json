@@ -1,0 +1,7 @@
+{
+    "token": "token",
+    "prefix": "!",
+    "mongoPath": "mongodb link",
+    
+    "botAdmin": ["owners"]
+}
